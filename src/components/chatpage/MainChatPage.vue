@@ -9,7 +9,7 @@ let password = ref('');
     <div class="grid-item">
       <ChatSidePannel />
     </div>
-    <div class="grid-item">Chat view</div>
+    <div class="grid-item">Chat view with chat</div>
   </div>
 </template>
 
